@@ -1,0 +1,16 @@
+DNS : Domain name System 
+    -> The Tech allows computers to resolve host name (google.com) to domain names, IP Address(Internet Protocol)
+    you get your DNS resolver by 
+        -> your ISP will provide
+        -> you manually configure a DNS resolver
+
+HTTP : Hyper Text Transfer Protocol
+    -> HTTP allows to establish a connection between client and the server, where HTTPS do thee same but in secure way
+    -> by default HTTP runs on port:80 & HTTPS runs on port:443
+
+HTTP Request Methods
+    -> GET    : visiting web pages
+    -> POST   : interaction with web pages Ex: login/signup pages
+    -> PUT    : creating a new resources
+    -> PATCH  : update the resource
+    -> DELETE : deletes a resource
